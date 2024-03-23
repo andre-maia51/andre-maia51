@@ -1,16 +1,19 @@
-### Hi there 👋
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
 
-<!--
-**andre-maia51/andre-maia51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Presentation -->
+<p>
+  Oi 👋, eu sou o André, um mero iniciante no mundo da tecnologia.
 
-Here are some ideas to get you started:
+  - 🌱 Atualmente estudo Engenharia de Software na Universidade de Brasília.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Links -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andre_m51/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-maia-cunha/)
+
+<!-- GithubStats -->
+![andre-maia51 GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-maia51&show_icons=true&theme=dracula)
