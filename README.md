@@ -3,5 +3,6 @@
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=andre-maia51&show_icons=true&theme=github_dark)
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andre-maia51&layout=compact&theme=github_dark)
 
